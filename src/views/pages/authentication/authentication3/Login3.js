@@ -46,7 +46,7 @@ const Login = () => {
                                                         gutterBottom
                                                         variant={matchDownSM ? 'h3' : 'h2'}
                                                     >
-                                                        Hi, Welcome Back
+                                                        Hi, Welcome Back to Oscii.io
                                                     </Typography>
                                                     <Typography
                                                         variant="caption"
